@@ -31,16 +31,14 @@ LstCompass is a modern web application designed to simplify and enhance your exp
    cd LstCompass
 2. Install dependencies
    npm install
-3. Create a .env file in the root directory and configure the required environment variables.
-
-Start the development server:
-
-npm run dev
-4. Scripts
 . npm run dev: Start the development server.
 . npm build: Build the project for production.
 . npm lint: Run ESLint to check for code quality issues.
 . npm preview: Preview the production build locall
+4. Create a .env file in the root directory and configure the required environment variables.
+
+Start the development server:
+
 
 Usage
 . Explore Cryptocurrencies: Use the dashboard to view real-time data and analytics for various cryptocurrencies.
