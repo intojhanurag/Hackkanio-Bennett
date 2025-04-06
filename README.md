@@ -3,7 +3,7 @@ https://zippy-gnome-32d2e8.netlify.app/
 
 ## Screenshot
 
-![Application Screenshot](https://github.com/username/repo-name/blob/main/Screenshot%202025-04-06%20110152.png)
+![Application Screenshot](https://github.com/intojhanurag/Hackkanio-Bennett/blob/127f602df90c475278fec712fba9ba5d5607a53b/Screenshot%202025-04-06%20110152.png)
 # LstCompass
 
 LstCompass is a modern web application designed to simplify and enhance your experience with decentralized finance (DeFi) and cryptocurrency staking. Built with React, TypeScript, and TailwindCSS, this project provides a seamless and intuitive interface for users to explore, analyze, and interact with blockchain-based financial tools.
