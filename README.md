@@ -37,27 +37,27 @@ Start the development server:
 
 npm run dev
 4. Scripts
-npm run dev: Start the development server.
-npm build: Build the project for production.
-npm lint: Run ESLint to check for code quality issues.
-npm preview: Preview the production build locall
+. npm run dev: Start the development server.
+. npm build: Build the project for production.
+. npm lint: Run ESLint to check for code quality issues.
+. npm preview: Preview the production build locall
 
 Usage
-Explore Cryptocurrencies: Use the dashboard to view real-time data and analytics for various cryptocurrencies.
-Stake Tokens: Follow the step-by-step guide in the "Documentation" page to stake your tokens securely.
-Customize Filters: Use the filter bar to sort and filter data based on your preferences.
-Contributing
-We welcome contributions! To contribute:
+. Explore Cryptocurrencies: Use the dashboard to view real-time data and analytics for various cryptocurrencies.
+. Stake Tokens: Follow the step-by-step guide in the "Documentation" page to stake your tokens securely.
+. Customize Filters: Use the filter bar to sort and filter data based on your preferences.
+. Contributing
+. We welcome contributions! To contribute:
 
 Fork the repository.
-Create a new branch for your feature or bug fix.
-Commit your changes and push them to your fork.
-Submit a pull request with a detailed description of your changes.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+. Create a new branch for your feature or bug fix.
+. Commit your changes and push them to your fork.
+. Submit a pull request with a detailed description of your changes.
+. License
+. This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
-Solana Web3.js: For blockchain interactions.
-Serum Anchor: For DeFi integrations.
-React Query: For efficient data fetching and caching.
-TailwindCSS: For rapid UI development.
+. Solana Web3.js: For blockchain interactions.
+. Serum Anchor: For DeFi integrations.
+. React Query: For efficient data fetching and caching.
+. TailwindCSS: For rapid UI development.
