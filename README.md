@@ -28,14 +28,16 @@ LstCompass is a modern web application designed to simplify and enhance your exp
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/LstCompass.git
-   cd LstCompass
-2. Install dependencies
+   Install dependencies
    npm install
-. npm run dev: Start the development server.
-. npm build: Build the project for production.
-. npm lint: Run ESLint to check for code quality issues.
-. npm preview: Preview the production build locall
-4. Create a .env file in the root directory and configure the required environment variables.
+   npm run dev: Start the development server.
+   npm build: Build the project for production.
+   npm lint: Run ESLint to check for code quality issues.
+   npm preview: Preview the production build locall
+   
+   cd LstCompass
+
+3. Create a .env file in the root directory and configure the required environment variables.
 
 Start the development server:
 
